@@ -1,0 +1,29 @@
+### THUMBNAILS
+
+._*
+Thumbs.db
+
+### METADATA
+
+Desktop.ini
+.DS_Store
+*.komodoproject
+
+### BLOBS
+
+*.webm
+*.mp4
+*.mp3
+
+### BACKUPS
+
+*.bak
+
+### EXTERNAL DISKS
+
+.Spotlight-V100
+.Trashes
+
+### COMPILED PYTHON
+
+*.pyc
